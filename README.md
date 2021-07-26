@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**maximdave/maximdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm David Enoragbon,a Software Engineer in Nigeria using MERN Stack.I love working with Javascript alot.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on ...Docker,CI/CD
+🌱 I’m currently learning ...GraphQL
+👯 I’m looking to collaborate on ...DevOps related projects
+🤔 I’m looking for help with ... connecting with startups and collaborating
+💬 Ask me about ... React.js,Node.js,GCP,Docker
+📫 How to reach me: ...twitter : @otunbadipo1
+😄 Pronouns: ... He/Him
+⚡ Fun fact: ...I love Cakes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=maximdave)
