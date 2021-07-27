@@ -11,5 +11,5 @@ I'm David Enoragbon,a Software Engineer in Nigeria using MERN Stack.I love worki
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I love Cakes
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=maximdave) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maximdave&repo=maximdave)
+![Github stats](https://github-readme-stats.vercel.app/api?username=maximdave) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maximdave&repo=jobFinder)
 
