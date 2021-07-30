@@ -7,7 +7,7 @@ I'm David Enoragbon,a Software Engineer in Nigeria using MERN Stack.I love worki
 - 👯 I’m looking to collaborate on ...DevOps related projects
 - 🤔 I’m looking for help with ... connecting with startups and collaborating
 - 💬 Ask me about ... React.js,Node.js,GCP,Docker
-- 📫 How to reach me: ...twitter : @otunbadipo1
+- 📫 How to reach me: ...twitter : @maximdave
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I love Cakes
 
