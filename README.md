@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **Product Management**
 
-- 👨‍💻 All of my projects are available at [https://davidenoragbons.netlify.app/](https://davidenoragbons.netlify.app/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://davidenoragbons.netlify.app/)
 
 
 
 - 💬 Ask me about **NodeJs, Express, Reactjs, Nodejs,GCP,Docker, Digital Ocean**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_LOPBfSkSdGU1lJGeP1L_ab_DgsDzSSbBrmggZEfybE/edit?usp=sharing](https://docs.google.com/document/d/1_LOPBfSkSdGU1lJGeP1L_ab_DgsDzSSbBrmggZEfybE/edit?usp=sharing)
+- 📄 Know about my experiences on my [online CV](https://docs.google.com/document/d/1_LOPBfSkSdGU1lJGeP1L_ab_DgsDzSSbBrmggZEfybE/edit?usp=sharing)
 
 
 
@@ -39,6 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximdave&show_icons=true&locale=en" alt="maximdave" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximdave&" alt="maximdave" /></p>
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maximdave) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maximdave&repo=jobFinder)
