@@ -1,5 +1,5 @@
 ### Hi there 👋
-[myport][https://davidenoragbons.netlify.app/]
+
 I'm David Enoragbon,a Software Engineer in Nigeria using MERN Stack.I love working with Javascript alot.
 
 - 🔭 I’m currently working on ...Docker,CI/CD
